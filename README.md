@@ -4,8 +4,8 @@
 PacificBites is a modern Android food ordering application developed for the University of Fiji. The app allows users to order delicious Pacific cuisine including Chicken Palau, Lamb Palau, Pizza, and Chow Mein.
 
 ## 👨‍💻 Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your ID]
+- **Name:** Aniket Prasad
+- **Student ID:** 20241477
 - **Course:** Mobile Application Development
 - **Institution:** University of Fiji
 - **Submission Date:** May 14, 2026
@@ -52,4 +52,3 @@ PacificBites is a modern Android food ordering application developed for the Uni
 | Build Tool | Gradle (Kotlin DSL) |
 | IDE | Android Studio Hedgehog |
 
-## 📁 Project Structure
