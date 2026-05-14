@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PacificBites" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6B6B</item>
+        <item name="colorPrimaryVariant">#FF5252</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#4ECDC4</item>
+        <item name="colorSecondaryVariant">#45B7B0</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">#FF6B6B</item>
+    </style>
+</resources>
